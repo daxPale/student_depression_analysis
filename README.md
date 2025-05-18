@@ -1,3 +1,15 @@
+# Student Depression Analysis
+
+## Overview
+
+This repository contains an analysis of student depression factors and a prediction model built using machine learning techniques. The analysis explores various factors contributing to depression among students and builds a predictive model to identify at-risk individuals.
+
+## Repository Navigation
+
+- [Predicting_Student_Depression.pdf](Predicting_Student_Depression.pdf) - Complete research report with detailed analysis and findings
+- [StudentDepression.ipynb](StudentDepression.ipynb) - Jupyter notebook with the complete code implementation
+- [student_depression_dataset.csv](student_depression_dataset.csv) - Original dataset used for analysis
+
 ## Methodology
 
 ### Data Preprocessing
@@ -60,3 +72,7 @@ The models performed as follows on the test set:
   4.  Age
   5.  Work/Study Hours
 - These findings highlight critical areas for potential intervention and support within student populations.
+
+## Detailed Report
+
+For a comprehensive analysis including visualizations, statistical tests, and in-depth discussion of results, please refer to the [full PDF report](Predicting_Student_Depression.pdf).
